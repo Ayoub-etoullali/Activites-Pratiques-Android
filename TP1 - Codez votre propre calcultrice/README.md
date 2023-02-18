@@ -8,6 +8,7 @@ Dans ce TP, il est demandé de réaliser une application qui permet de mettre en
 
 1. Arborescence des composants
 ![image](https://user-images.githubusercontent.com/92756846/219903422-870b26df-2105-4b59-9858-617adccf886a.png)
+
 2. activity_main
       * Interface
       ![image](https://user-images.githubusercontent.com/92756846/219903385-b2ca7924-3f33-4e41-9e6d-fdabe0aacfb9.png)
@@ -18,5 +19,5 @@ Dans ce TP, il est demandé de réaliser une application qui permet de mettre en
       Au niveau du comportement, on se rend compte que pour faire des opérations binaires (avec deux opérandes), il faudra mémoriser deux opérandes et l’opération effectuée. L'action du bouton égal (=) sera celle qui fera le calcul. Il faut aussi mémoriser si on est en train de saisir le premier ou le second opérande. Ainsi, lancer le calcul ne correspondra qu'à faire l'opération demandée entre les 2 opérandes en mémoire, stocker le résultat en premier opérande et mettre à jour l'affichage.
 ![image](https://user-images.githubusercontent.com/92756846/219903434-dea244f6-371b-42d8-91be-62938ea53573.png)
 
-Et Finalement 🤗
+## Et Finalement 🤗
 ![5](https://user-images.githubusercontent.com/92756846/219903439-3fbd0126-cbc4-4546-ab89-dec8caf9dc3e.jpg)
