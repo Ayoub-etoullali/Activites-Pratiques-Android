@@ -4,14 +4,18 @@ Dans ce TP, il est demandé de réaliser une application qui permet de mettre en
 
 ## Partie 1 : L’interface graphique de l’application
    L'organisation générale demandée peut se décomposer en un texte en haut de l'écran et un tableau de boutons en bas. En utilisant le LinearLayout avec une orientation verticale, on peut donc placer un TextView en haut de l'écran sur l'intégralitéde la largeur avec un texte aligné à droite ainsi qu’un TableLayout en bas.
+
 ![image](https://user-images.githubusercontent.com/92756846/219903328-b803229d-719e-44cd-a8d4-1170af43c2ce.png)
 
 1. Arborescence des composants
+
 ![image](https://user-images.githubusercontent.com/92756846/219903422-870b26df-2105-4b59-9858-617adccf886a.png)
 
 2. activity_main
+
       * Interface
       ![image](https://user-images.githubusercontent.com/92756846/219903385-b2ca7924-3f33-4e41-9e6d-fdabe0aacfb9.png)
+      
       * Code
       ![image](https://user-images.githubusercontent.com/92756846/219903335-7ceef4c0-d21e-4a2d-85c6-ce81a0d21617.png)
       
