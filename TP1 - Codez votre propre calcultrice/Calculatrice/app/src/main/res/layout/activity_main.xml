@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/textview_result"
@@ -15,7 +12,6 @@
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="30dp" />
-
 
     <TextView
         android:id="@+id/textview_enter"
@@ -31,14 +27,8 @@
         android:textSize="40dp" />
 
     <LinearLayout
-        android:id="@+id/LinearLayout"  
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:background="#939393"
-        android:orientation="vertical"
-        android:paddingVertical="16dp">
-
+        android:id="@+id/LinearLayout" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" android:background="#939393" android:orientation="vertical" android:paddingVertical="16dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -100,7 +90,6 @@
 
 
         </LinearLayout>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -160,7 +149,6 @@
 
 
         </LinearLayout>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -221,7 +209,6 @@
 
 
         </LinearLayout>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -282,7 +269,6 @@
 
 
         </LinearLayout>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
