@@ -1,7 +1,7 @@
-# Activité Pratique 👨🏻‍💻
-![](https://miro.medium.com/max/647/1*PBTTH5RGrfT1RBXxr989XQ.png)
+# Activités Pratiques 👨🏻‍💻
+![](https://www.tech-connect.info/wp-content/uploads/developpement-applications-Android.jpg)
 
-## (1) Inversion de contrôle et Injection des dépendances
+## (1) Codez votre propre calcultrice
 
 
 
