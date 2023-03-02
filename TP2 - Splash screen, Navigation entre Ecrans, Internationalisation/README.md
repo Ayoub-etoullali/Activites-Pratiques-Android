@@ -7,7 +7,7 @@ Dans cet exercice, il est demandé de réaliser une application qui permet de r�
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
+### 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
 
    #### Activité 1 : l’écran d’accueil << Splash Screen avec animation du texte d’accueil >>
    
