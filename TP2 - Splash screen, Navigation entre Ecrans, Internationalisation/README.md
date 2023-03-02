@@ -7,8 +7,8 @@ Dans cet exercice, il est demandé de réaliser une application qui permet de r�
 
 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
 
-   ##### Activité 1 : l’écran d’accueil
-   ###### Méthode 1 : Splash Screen avec animation du texte d’accueil
+   #### Activité 1 : l’écran d’accueil
+   ##### Méthode 1 : Splash Screen avec animation du texte d’accueil
    
    * Créer une nouvelle activité SplashActivity
    
