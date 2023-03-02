@@ -19,7 +19,8 @@ ________________________________________________________________________________
 
    * déclarer que le SplashActivity est l’activitéde démarrage de l'application
    
-   ![image](https://user-images.githubusercontent.com/92756846/222569364-2c0db696-9227-40c3-af85-ef76d2303c46.png)
+   ![image](https://user-images.githubusercontent.com/92756846/222575567-bf3ea1bb-8b66-409a-882d-cdb3dd67cf16.png)
+
    
    
 
