@@ -13,7 +13,7 @@ ________________________________________________________________________________
    
    * Créer une nouvelle activité SplashActivity
    
-   ![image](https://user-images.githubusercontent.com/92756846/222569931-123d794b-a35b-4a4b-8e43-f6b74a56c1db.png)
+   ![image](https://user-images.githubusercontent.com/92756846/222574817-c924db12-8ef3-46dd-a87e-20be015b673f.png)
    
    ![image](https://user-images.githubusercontent.com/92756846/222569210-7f8b6b22-1e0c-4a96-a99b-1cc620f35dd8.png)
 
