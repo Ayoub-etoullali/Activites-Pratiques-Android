@@ -1,4 +1,4 @@
-# (1) Splash screen & Navigation entre Écrans & Internationalisation
+# (2) Splash screen & Navigation entre Écrans & Internationalisation
 
 ## Exercice 1 :
 => But : Utilisation des Layouts, Ressources, Application Composite et Création d’Evénement
