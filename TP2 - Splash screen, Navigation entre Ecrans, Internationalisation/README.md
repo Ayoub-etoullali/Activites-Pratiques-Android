@@ -6,8 +6,8 @@
 Dans cet exercice, il est demandé de réaliser une application qui permet de récupérer les données d’un utilisateur (Nom et mot de passe) à partir de la première Activité et les envoyer à la deuxième activité pour les afficher. Le démarrage de l’application se fait en premier lieu avec un écran de d’accueil qui s’appelle un Splash Screen.
 
 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
-   ### Activité 1 : l’écran d’accueil
-   Méthode 1 : Splash Screen avec animation du texte d’accueil
+   #### Activité 1 : l’écran d’accueil
+   ##### Méthode 1 : Splash Screen avec animation du texte d’accueil
    
    * Créer une nouvelle activité SplashActivity
    
