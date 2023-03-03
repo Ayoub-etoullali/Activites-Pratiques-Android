@@ -4,12 +4,13 @@
 => But : Utilisation des Layouts, Ressources, Application Composite et Création d’Evénement
 
 Dans cet exercice, il est demandé de réaliser une application qui permet de récupérer les données d’un utilisateur (Nom et mot de passe) à partir de la première Activité et les envoyer à la deuxième activité pour les afficher. Le démarrage de l’application se fait en premier lieu avec un écran de d’accueil qui s’appelle un Splash Screen.
-_______________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   #### Activité Splash Screen
+   ### Activité Splash Screen
    
    * Créer une nouvelle activité "Splash Screen"
    
@@ -24,6 +25,8 @@ ________________________________________________________________________________
    #### Activité Main :
    
    * Créer une nouvelle activité "Main" :
+  
+   ![image](https://user-images.githubusercontent.com/92756846/222762318-13552c69-256c-42f7-a5e9-e56526c47df2.png)
    
    ![image](https://user-images.githubusercontent.com/92756846/222758309-f19cfbe4-3e8f-49b4-a95d-bcbd8f6f702b.png)
    
@@ -34,14 +37,26 @@ ________________________________________________________________________________
    #### Activité NewActivity :
    
    * Créer une nouvelle activité "NewActivity"
+
+   ![image](https://user-images.githubusercontent.com/92756846/222762527-786edd52-1ccf-4620-b366-d803286356a7.png)
    
    ![image](https://user-images.githubusercontent.com/92756846/222758806-25af392c-288b-423f-a940-27fa4e718472.png)
    
    * Déclarer que l'Activity2 est dans les activités de démarrage de l'application
    
    ![image](https://user-images.githubusercontent.com/92756846/222759675-a6429565-4a5d-43c0-920b-cc79e884168c.png)
+   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 2. Ajouter une méthode void envoyer(View view) dans la première activité qui sera associée au bouton Envoyer. Elle permet de transférer les informations de l’utilisateur vers la deuxième activité.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/92756846/222762729-633b3b25-506e-4b79-844c-54989dae6bb1.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 3. Ajouter une méthode void retour(View view) dans la deuxième activité qui sera associer au bouton Retour afin de retourner à la première activité et réinitialiser les champs du formulaire.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/92756846/222762618-b335acad-8242-44c8-a2ee-3188d5c9c4fd.png)
 
 
 ## Et Finalement 🤗
