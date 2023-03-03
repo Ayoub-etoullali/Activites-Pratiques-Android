@@ -9,6 +9,8 @@ ________________________________________________________________________________
 
 ### 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
 -----
+----
+---
 
    ### Activité Splash Screen
    
