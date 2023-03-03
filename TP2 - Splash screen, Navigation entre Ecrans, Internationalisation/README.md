@@ -4,13 +4,8 @@
 => But : Utilisation des Layouts, Ressources, Application Composite et Création d’Evénement
 
 Dans cet exercice, il est demandé de réaliser une application qui permet de récupérer les données d’un utilisateur (Nom et mot de passe) à partir de la première Activité et les envoyer à la deuxième activité pour les afficher. Le démarrage de l’application se fait en premier lieu avec un écran de d’accueil qui s’appelle un Splash Screen.
-____________________________________________________________________________________________________________________________________________________________________
-
-
-### 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
------
-----
 ---
+### 1. Créer l’interface graphique de l’application (Activité 1, 2 et 3)
 
    ### Activité Splash Screen
    
@@ -24,7 +19,7 @@ ________________________________________________________________________________
    
    ![image](https://user-images.githubusercontent.com/92756846/222759902-a9586a8b-7021-41db-8cb7-f0fe7c1bc891.png)
 
-   #### Activité Main :
+   ### Activité Main :
    
    * Créer une nouvelle activité "Main" :
   
@@ -36,7 +31,7 @@ ________________________________________________________________________________
    
    ![image](https://user-images.githubusercontent.com/92756846/222759999-debac869-1bb4-4c88-97b3-046f0044fc3d.png)
    
-   #### Activité NewActivity :
+   ### Activité NewActivity :
    
    * Créer une nouvelle activité "NewActivity"
 
