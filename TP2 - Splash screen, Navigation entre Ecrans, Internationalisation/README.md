@@ -103,8 +103,7 @@ En utilisant l’application d’exercice 2 :
 
 ## 3. Exécuter l’application, basculer à la deuxième activité et fermer l’application à la fin pour afficher les étapes du cycle de vie de l’activité testée.
 
-![IMG_20230303_190012](https://user-images.githubusercontent.com/92756846/222794056-025ffdf4-54dd-4653-a8c7-eb243596cd36.jpg)
-
+![Lumii_20230303_193645672](https://user-images.githubusercontent.com/92756846/222800829-e4be4079-d9ea-4fba-8b18-e8cc5e2f4457.jpg)
 
 ## Enfin 🤗 vous pouvez voir la simulation ici 
 https://drive.google.com/file/d/1uMlIPDN-iPYqsXSSCv83lJQfH-5SjM_a/view?usp=drivesdk
