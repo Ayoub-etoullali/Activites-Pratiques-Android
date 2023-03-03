@@ -1,7 +1,6 @@
 # (2) Splash screen & Navigation entre Écrans & Internationalisation
 
 ## Exercice 1 :
----
 => But : Utilisation des Layouts, Ressources, Application Composite et Création d’Evénement
 
    Dans cet exercice, il est demandé de réaliser une application qui permet de récupérer les données d’un utilisateur (Nom et mot de passe) à partir de la première Activité et les envoyer à la deuxième activité pour les afficher. Le démarrage de l’application se fait en premier lieu avec un écran de d’accueil qui s’appelle un Splash Screen.
