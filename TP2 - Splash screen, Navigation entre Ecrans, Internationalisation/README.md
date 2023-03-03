@@ -105,5 +105,7 @@ En utilisant l’application d’exercice 2 :
 
 ![Lumii_20230303_193645672](https://user-images.githubusercontent.com/92756846/222800829-e4be4079-d9ea-4fba-8b18-e8cc5e2f4457.jpg)
 
+![Lumii_20230303_194424704](https://user-images.githubusercontent.com/92756846/222802004-408ad167-b519-4667-b087-bd9a7a45f221.jpg)
+
 ## Enfin 🤗 vous pouvez voir la simulation ici 
 https://drive.google.com/file/d/1uMlIPDN-iPYqsXSSCv83lJQfH-5SjM_a/view?usp=drivesdk
