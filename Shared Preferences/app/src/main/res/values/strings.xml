@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jeu </string>
+    <string name="les_param_tres_du_jeu">Les paramètres du jeu</string>
+    <string name="son">Son:</string>
+    <string name="luminosit">Luminosité:</string>
+    <string name="facile">Facile</string>
+    <string name="moyen">Moyen</string>
+    <string name="difficile">Difficile</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="le_niveau_de_difficult">Le niveau de difficulté:</string>
+</resources>

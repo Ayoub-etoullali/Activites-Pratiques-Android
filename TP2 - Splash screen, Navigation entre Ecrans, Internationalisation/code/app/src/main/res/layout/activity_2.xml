@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/textView_InfoCompte2"
+            style="@style/TextView"
+            android:layout_marginTop="50dp"
+            android:text="@string/InfoUtilisateur" />
+
+        <ImageView
+            android:id="@+id/imageView_1"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginBottom="50dp"
+            android:contentDescription="@string/Bienvenue"
+            app:srcCompat="@drawable/tr" />
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <TextView
+                android:id="@+id/textView_NomUtilisateur2"
+                style="@style/TextView"
+                android:text="@string/NomUtilisateur" />
+
+            <EditText
+                android:id="@+id/editText_NomUtilisateur2"
+                style="@style/EditText"
+                android:autofillHints="name"
+                android:inputType="text"
+                tools:ignore="LabelFor" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <TextView
+                android:id="@+id/textView_MotDePasse2"
+                style="@style/TextView"
+                android:text="@string/MotDePasse" />
+
+            <EditText
+                android:id="@+id/editText_MotDePasse2"
+                style="@style/EditText"
+                android:autofillHints="password"
+                android:inputType="text"
+                tools:ignore="LabelFor" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <ImageView
+                android:id="@+id/imageView_Home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="80dp"
+                android:layout_marginRight="20dp"
+                android:contentDescription="@string/Identifier"
+                android:onClick="retour"
+                app:srcCompat="@drawable/img_1" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

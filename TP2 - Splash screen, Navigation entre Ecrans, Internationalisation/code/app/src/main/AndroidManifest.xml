@@ -12,6 +12,10 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity"
+            android:exported="false">
+        </activity>
+        <activity
             android:name=".SplashActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             android:exported="true">
@@ -19,6 +23,11 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity2"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:exported="false">
         </activity>
     </application>
 

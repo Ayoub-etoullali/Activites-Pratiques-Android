@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="Bienvenue">Bienvenue</string>
+    <string name="NomUtilisateur">Nom d\'utilisateur :</string>
+    <string name="MotDePasse">Mot de passe :</string>
+    <string name="InfoUtilisateur">Les informations du compte de l\'utilisateur</string>
+    <string name="Identifier">S\'IDENTIFIER</string>
+</resources>

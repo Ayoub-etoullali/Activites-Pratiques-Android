@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Colleagues Contacts</string>
+    <string name="recherche" />
+    <string name="prenom">prenom</string>
+    <string name="nom">nom</string>
+</resources>
