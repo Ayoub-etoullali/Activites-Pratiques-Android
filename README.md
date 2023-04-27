@@ -1,7 +1,7 @@
 # Activités Pratiques 👨🏻‍💻
 ![](https://www.tech-connect.info/wp-content/uploads/developpement-applications-Android.jpg)
 
-##TPs :
+## TPs
   
 <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%201">
   (1) Codez votre propre calcultrice </a> <br>
