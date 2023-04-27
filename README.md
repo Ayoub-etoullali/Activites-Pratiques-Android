@@ -8,7 +8,7 @@
   (2) Splash screen & Navigation entre Écrans & Internationalisation </a> <br>
  <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%203">
   (3) Création et stockage d'une liste de contact dans une base de données distante </a> 
-***
+  ***
 
 ```sh
 ✨ Je vous invite à consulter d’autres exercices pratiques au dossier << + >> 
