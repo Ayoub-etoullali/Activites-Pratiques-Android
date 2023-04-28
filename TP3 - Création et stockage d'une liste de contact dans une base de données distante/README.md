@@ -10,7 +10,7 @@ Vous êtes invités à créer une liste de contact en interrogeant une base de d
 ## Demo
 Démonstration vidéo expliquant l'architecture adoptée  <a href="https://youtu.be/oYyRfkGSGUs"> lien </a>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=DBpzxVnXK3M)
+[![Watch the video]()](https://www.youtube.com/watch?v=DBpzxVnXK3M)
 
 ## Simulation vidéo de L'aaplication
 <div align="center">  
