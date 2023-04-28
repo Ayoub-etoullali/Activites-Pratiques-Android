@@ -11,7 +11,7 @@ Vous êtes invités à créer une liste de contact en interrogeant une base de d
 Démonstration vidéo expliquant l'architecture adoptée  <a href="https://youtu.be/oYyRfkGSGUs"> lien </a>
 
 <video width="420" height="315"
-src="https://youtu.be/DBpzxVnXK3M">
+src="https://www.youtube.com/watch?v=DBpzxVnXK3M&feature=youtu.be">
 </video>
 
 ## Simulation vidéo de L'aaplication
