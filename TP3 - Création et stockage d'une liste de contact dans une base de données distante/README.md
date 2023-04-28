@@ -11,7 +11,7 @@ Vous êtes invités à créer une liste de contact en interrogeant une base de d
 Démonstration vidéo expliquant l'architecture adoptée
 [![Watch the video](https://user-images.githubusercontent.com/92756846/235241470-b3641364-e980-4c21-9505-7c7c96642c1d.png)](https://youtu.be/oYyRfkGSGUs)
 
-## Simulation vidéo de L'aaplication
+## Simulation vidéo de L'aplication `ContactApp`
 [![Watch the video](https://user-images.githubusercontent.com/92756846/235240621-100a5041-e625-47b9-ab20-d5e89d1aafdf.png)](https://www.youtube.com/watch?v=DBpzxVnXK3M)
 
 <kbd>Enjoy Code</kbd> 👨‍💻
