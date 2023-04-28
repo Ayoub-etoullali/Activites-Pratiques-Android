@@ -6,7 +6,7 @@
   (1) Codez votre propre calcultrice </a> <br>
 <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP2%20-%20Splash%20screen%2C%20Navigation%20entre%20Ecrans%2C%20Internationalisation">
   (2) Splash screen & Navigation entre Écrans & Internationalisation </a> <br>
- <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%203">
+ <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP3%20-%20Cr%C3%A9ation%20et%20stockage%20d'une%20liste%20de%20contact%20dans%20une%20base%20de%20donn%C3%A9es%20distante">
   (3) Création et stockage d'une liste de contact dans une base de données distante </a> <br>
   
   <br>
