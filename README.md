@@ -2,9 +2,9 @@
 ![](https://www.tech-connect.info/wp-content/uploads/developpement-applications-Android.jpg)
 
 ## TPs
-<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%201">
+<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP1%20-%20Codez%20votre%20propre%20calcultrice">
   (1) Codez votre propre calcultrice </a> <br>
-<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%202">
+<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/TP2%20-%20Splash%20screen%2C%20Navigation%20entre%20Ecrans%2C%20Internationalisation">
   (2) Splash screen & Navigation entre Écrans & Internationalisation </a> <br>
  <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-JEE/tree/main/Activit%C3%A9%20Pratique%20N%C2%B0%203">
   (3) Création et stockage d'une liste de contact dans une base de données distante </a> <br>
