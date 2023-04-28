@@ -8,13 +8,14 @@ Vous êtes invités à créer une liste de contact en interrogeant une base de d
    Un contact devra avoir au moins un prénom, nom, adresse email, numéro de téléphone. Tout autre champ additionnel est souhaitable comme la photo par exemple.
 
 ## Demo
-Démonstration vidéo expliquant l'architecture adoptée  <a href="https://youtu.be/oYyRfkGSGUs"> lien </a>
-
-[![Watch the video](https://user-images.githubusercontent.com/92756846/235240621-100a5041-e625-47b9-ab20-d5e89d1aafdf.png)](https://www.youtube.com/watch?v=DBpzxVnXK3M)
+Démonstration vidéo expliquant l'architecture adoptée
+<div align="center"> 
+[![Watch the video](https://user-images.githubusercontent.com/92756846/235241470-b3641364-e980-4c21-9505-7c7c96642c1d.png)](https://youtu.be/oYyRfkGSGUs)
+</div>
 
 ## Simulation vidéo de L'aaplication
-<div align="center">  
-<video src="https://user-images.githubusercontent.com/92756846/235222188-1a1d6a38-f995-4288-823f-f5bef0408724.mp4">
+ <div align="center"> 
+[![Watch the video](https://user-images.githubusercontent.com/92756846/235240621-100a5041-e625-47b9-ab20-d5e89d1aafdf.png)](https://www.youtube.com/watch?v=DBpzxVnXK3M)
 </div>
 
 <kbd>Enjoy Code</kbd> 👨‍💻
