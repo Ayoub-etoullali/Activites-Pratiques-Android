@@ -10,10 +10,8 @@ Vous êtes invités à créer une liste de contact en interrogeant une base de d
 ## Demo
 Démonstration vidéo expliquant l'architecture adoptée  <a href=""> lien </a>
   
-## Simulation
-https://user-images.githubusercontent.com/92756846/235222188-1a1d6a38-f995-4288-823f-f5bef0408724.mp4
-
 <div align="center">
+https://user-images.githubusercontent.com/92756846/235222188-1a1d6a38-f995-4288-823f-f5bef0408724.mp4
        <p>
        <sup>  <strong>Vidéo -</strong> Simulation de l'application ContactApp</sup>
        </p>
