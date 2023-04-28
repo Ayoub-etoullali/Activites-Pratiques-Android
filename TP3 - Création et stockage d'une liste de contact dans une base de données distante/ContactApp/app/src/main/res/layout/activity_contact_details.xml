@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_dynamic_neutral95"
+    tools:context=".ContactDetails">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/profile"
+            android:layout_width="150dp"
+            android:layout_height="@dimen/_100sdp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:src="@mipmap/ic_launcher"
+            tools:srcCompat="@tools:sample/avatars" />
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Ayoub ETOULLALI"
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"
+            android:textSize="@dimen/_16sdp"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:paddingBottom="30dp"/>
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:stretchColumns="1">
+
+            <TableRow>
+                <TextView
+                    android:text="Téléphone"
+                    android:textSize="@dimen/_14sdp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+
+                <TextView
+                    android:id="@+id/tele"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:padding="@dimen/_5sdp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/colorSecondary"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    tools:text="+212 6 58 71 20 11" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:text="Email"
+                    android:layout_gravity="center"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+                <TextView
+                    android:id="@+id/email"
+                    tools:text="ayoub@gmail.com"
+                    android:textSize="@dimen/_14sdp"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"
+                    android:padding="@dimen/_5sdp"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:textColor="@color/colorSecondary"
+                    />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:text="SIM"
+                    android:layout_gravity="center"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorSecondary"/>
+                <TextView
+                    android:id="@+id/gender"
+                    tools:text="SIM_1"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold"
+                    android:padding="@dimen/_5sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:textColor="@color/colorSecondary"
+                    />
+            </TableRow>
+
+
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="20dp">
+
+                <TextView
+                    android:id="@+id/contact_edit"
+                    android:layout_width="105dp"
+                    android:layout_height="match_parent"
+                    android:background="#4CAF50"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:layout_marginLeft="100dp"
+                    android:layout_marginRight="30dp"
+                    android:text="Modifier"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/contact_delete"
+                    android:layout_width="108dp"
+                    android:layout_height="match_parent"
+                    android:background="#F44336"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="Supprimer"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_14sdp"
+                    android:textStyle="bold" />
+            </TableRow>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
