@@ -55,7 +55,7 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
 
 ## Vidéo de Démo
 
-[Regardez une démo de l'application en action ici]([lien_vers_video](https://drive.google.com/file/d/12Dpg42mTKzb75dnVD6Uj9PR5Br9BySfr/view)).
+[Regardez une démo de l'application en action ici](https://drive.google.com/file/d/12Dpg42mTKzb75dnVD6Uj9PR5Br9BySfr/view).
 
 <div align="center">
        <p>
@@ -63,6 +63,7 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
        </
          p>
 </div>
+
 ## Contributions
 
 Ce projet a été développé par Ayoub ETOULLALI dans le cadre de l'examen de développement mobile. Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer des pull requests pour améliorer l'application.
