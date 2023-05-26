@@ -48,6 +48,7 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
 4. Explorez les fonctionnalités disponibles pour ajouter, modifier, supprimer et afficher les données relatives aux pays.
 
 ## Captures d'écran
+<img src="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3" alt="Girl in a jacket" width="10" height="10">
 ![IMG_20230526_114142](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3)
 ![IMG_20230526_114219](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/ee77c146-25b8-4393-b953-ca115968dc94)
 ![IMG_20230526_114232](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/38280aae-7bbe-4746-8819-0a3c0b6bbf6d)
@@ -56,13 +57,6 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
 ## Vidéo de Démo
 
 [Regardez une démo de l'application en action ici](https://drive.google.com/file/d/12Dpg42mTKzb75dnVD6Uj9PR5Br9BySfr/view).
-
-<div align="center">
-       <p>
-       <sup>  <strong>Vidéo -</strong> Simulation de l'application ContactApp</sup>
-       </
-         p>
-</div>
 
 ## Contributions
 
