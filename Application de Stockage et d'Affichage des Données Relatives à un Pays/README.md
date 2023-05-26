@@ -48,7 +48,7 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
 4. Explorez les fonctionnalités disponibles pour ajouter, modifier, supprimer et afficher les données relatives aux pays.
 
 ## Captures d'écran
-<img src="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3" alt="Girl in a jacket" width="100" height="100">
+<img src="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3" alt="Girl in a jacket" width="50%" height="50%">
 
 ![IMG_20230526_114142](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3)
 ![IMG_20230526_114219](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/ee77c146-25b8-4393-b953-ca115968dc94)
