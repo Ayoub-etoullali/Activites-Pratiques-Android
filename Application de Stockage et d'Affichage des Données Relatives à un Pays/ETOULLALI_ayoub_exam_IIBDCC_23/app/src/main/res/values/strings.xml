@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ETOULLALI_ayoub_exam_IIBDCC_23</string>
+    <string name="Bienvenue">Bienvenue</string>
+    <string name="NomUtilisateur">Nom d\'utilisateur :</string>
+    <string name="MotDePasse">Mot de passe :</string>
+    <string name="Identifier">S\'IDENTIFIER</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="Bienvenue">مرحبا</string>
+    <string name="NomUtilisateur">اسم المستخدم</string>
+    <string name="MotDePasse">كلمة مرور</string>
+    <string name="InfoUtilisateur">معلومات حساب المستخدم</string>
+</resources>

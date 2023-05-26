@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.etoullali.login">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="325dp"
+                android:contentDescription="@string/Bienvenue"
+                android:src="@drawable/img" />
+
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <TextView
+                android:id="@+id/textView_NomUtilisateur1"
+                style="@style/TextView"
+                android:text="@string/NomUtilisateur" />
+
+            <EditText
+                android:id="@+id/editText_NomUtilisateur1"
+                style="@style/EditText"
+                android:layout_width="117dp"
+                android:layout_height="48dp"
+                android:autofillHints="phone"
+                android:inputType="text"
+                tools:ignore="LabelFor" />
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <TextView
+                android:id="@+id/textView_MotDePasse1"
+                style="@style/TextView"
+                android:text="@string/MotDePasse" />
+
+            <EditText
+                android:id="@+id/editText_MotDePasse1"
+                style="@style/EditText"
+                android:layout_width="107dp"
+                android:layout_height="53dp"
+                android:autofillHints="name"
+                android:inputType="textPassword"
+                tools:ignore="LabelFor" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/LinearLayout">
+
+            <Button
+                android:id="@+id/button_Identifier1"
+                style="@style/button"
+                android:onClick="envoyer" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
