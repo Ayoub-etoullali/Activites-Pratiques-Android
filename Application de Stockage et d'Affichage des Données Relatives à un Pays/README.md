@@ -52,8 +52,10 @@ git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/ma
 <img src="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/ee77c146-25b8-4393-b953-ca115968dc94" alt="screen" width="30%" height="30%">
 <img src="https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/assets/92756846/4701040c-bd0f-4f91-be7a-3a7bb799b5b3" alt="screent" width="30%" height="30%">
 
-## Vidéo de Démo
+## Rapport
+[Rapport.pdf](https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/files/11574893/Rapport.pdf)
 
+## Vidéo de Démo
 [Regardez une démo de l'application en action ici](https://drive.google.com/file/d/12Dpg42mTKzb75dnVD6Uj9PR5Br9BySfr/view).
 
 ## Contributions
