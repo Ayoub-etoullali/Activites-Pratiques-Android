@@ -38,7 +38,7 @@ Le projet est organisé comme suit :
 1. Clonez le projet à l'aide de la commande suivante :
 
 ```bash
-git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/Application%20de%20Stockage%20et%20d\'Affichage%20des%20Donn%C3%A9es%20Relatives%20%C3%A0%20un%20Pays
+git clone https://github.com/Ayoub-etoullali/Activites-Pratiques-Android/tree/main/Application%20de%20Stockage%20et%20d'Affichage%20des%20Donn%C3%A9es%20Relatives%20%C3%A0%20un%20Pays
 ```
 
 2. Importez le projet dans votre environnement de développement (Android Studio, par exemple).
