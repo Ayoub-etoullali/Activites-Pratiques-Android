@@ -19,7 +19,7 @@ Le projet est organisé comme suit :
 │   ├── src
 │   │   ├── main
 │   │   │   ├── java
-│   │   │   │   ├── com.example.nom_prenom_exam_IIBDCC_23
+│   │   │   │   ├── com.etoullali
 │   │   │   │   │   ├── model
 │   │   │   │   │   ├── database
 │   │   │   │   │   ├── adapter
