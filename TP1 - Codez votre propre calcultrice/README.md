@@ -1,4 +1,4 @@
-# (1) Codez votre propre calcultrice
+# (1) Codez votre propre calculatrice
 
 Dans ce TP, il est demandé de réaliser une application qui permet de mettre en pratique la gestion des événements avec une interface graphique un peu complexe. 
 
